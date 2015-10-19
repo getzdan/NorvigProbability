@@ -8,4 +8,4 @@ A version which uses PyPlot, Vega, Winston and Gadfly for a side-by-side compari
 [http://nbviewer.ipython.org/github/getzdan/NorvigProbability/blob/master/NorvigProbability-CompareGraphics.ipynb](http://nbviewer.ipython.org/github/getzdan/NorvigProbability/blob/master/NorvigProbability-CompareGraphics.ipynb)
 
 The original python notebook can be viewed at:
-[nbviewer.ipython.org/url/norvig.com/ipython/Probability.ipynb](nbviewer.ipython.org/url/norvig.com/ipython/Probability.ipynb)
+[http://nbviewer.ipython.org/url/norvig.com/ipython/Probability.ipynb](http://nbviewer.ipython.org/url/norvig.com/ipython/Probability.ipynb)
