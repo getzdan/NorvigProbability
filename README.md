@@ -1,5 +1,5 @@
-#### Peter Norvig's *Probability, Paradox, and the Reasonable Person Principle* Notebook
-A Julia translation of Norvig's Probability python Jupyter/IPython notebook
+## Peter Norvig's Probability Notebook
+A Julia translation of Peter Norvig's *Probability, Paradox, and the Reasonable Person Principle* python Jupyter/IPython notebook.
 
 The Julia notebook can be viewed at:
 [http://nbviewer.ipython.org/github/getzdan/NorvigProbability/blob/master/NorvigProbabilityNotebook.ipynb](http://nbviewer.ipython.org/github/getzdan/NorvigProbability/blob/master/NorvigProbabilityNotebook.ipynb)
